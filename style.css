@@ -8,6 +8,7 @@
 				 url('./fonts/Mont_bold.eot?#iefix') format('embedded-opentype'), /* This doesn't work - IE6-IE8 */
 				 url('webfont.eot?#iefix') format('embedded-opentype'); /* IE6-IE8 */
 		  }
+		  
 		  @font-face {
 			font-family: 'Mont';
 			src: url('https://github.com/DmTs34/DCpedia/blob/master/fonts/Mont.eot?raw=true');/* This doesn't work - IE9 Compat Modes */
