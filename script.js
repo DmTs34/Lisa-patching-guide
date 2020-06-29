@@ -1,4 +1,4 @@
-let template = generateTemplate(true, { wrapper: 130, legend: 150 }, "Patching guide");
+let template = generateTemplate(true, { wrapper: 130, legend: 150 }, "ODF patching guide");
 let s = template.dynamic.svg().attr({ id: 'Rack', viewBox: '0 0 950 1200', width: '950px', height: '1200px', x: 0, y: 0 })
 let w = template.wrapper.svg().attr({ id: 'Wrapper', viewBox: '0 0 950 130', width: '950px', height: '130px', x: 0, y: 0 })
 let l = template.legend.svg().attr({ id: 'Legend', viewBox: '0 0 150 750', width: '150px', height: '1060px', x: 0, y: 0 })

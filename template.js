@@ -71,7 +71,7 @@ $('#div_content_content').attr({
     })
   }
   let initialSVG = function (){    
-  let logoSrc='https://dmts34.github.io/DCpedia/images/H-S-Logo.jpg';
+  let logoSrc='./assets/H-S-Logo.jpg';
   //SVG width and height
   if(orientation){W=950;H=1340} else {W=1890;H=1340}
   calcFrameWH()
