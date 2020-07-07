@@ -2,20 +2,20 @@
 		
 		@font-face {
 			font-family: 'Mont_bold';
-			src: url(/fonts/39EC6C_1_0.eot); /* IE9 Compat Modes */
-			src: url(/fonts/39EC6C_1_0.eot?raw=true);/* This doesn't work - IE9 Compat Modes */
-			src: url(/fonts/39EC6C_1_0.woff2) format('woff2'),/* Super Modern Browsers */
-				 url(/fonts/39EC6C_1_0.eot?#iefix) format('embedded-opentype'), /* This doesn't work - IE6-IE8 */
-				 url(/fonts/39EC6C_1_0.eot?#iefix) format('embedded-opentype'); /* IE6-IE8 */
+			src: url(./fonts/39EC6C_1_0.eot); /* IE9 Compat Modes */
+			src: url(./fonts/39EC6C_1_0.eot?raw=true);/* This doesn't work - IE9 Compat Modes */
+			src: url(./fonts/39EC6C_1_0.woff2) format('woff2'),/* Super Modern Browsers */
+				 url(./fonts/39EC6C_1_0.eot?#iefix) format('embedded-opentype'), /* This doesn't work - IE6-IE8 */
+				 url(./fonts/39EC6C_1_0.eot?#iefix) format('embedded-opentype'); /* IE6-IE8 */
 		  }
 		  
 		  @font-face {
 			font-family: 'Mont';
-			src: url(/fonts/39EC6C_0_0.eot); /* IE9 Compat Modes */
-			src: url(/fonts/39EC6C_0_0.eot?raw=true);/* This doesn't work - IE9 Compat Modes */
-			src: url(/fonts/39EC6C_0_0.woff2) format('woff2'),/* Super Modern Browsers */
-				 url(/fonts/39EC6C_0_0.eot?#iefix) format('embedded-opentype'), /* This doesn't work - IE6-IE8 */
-				 url(/fonts/39EC6C_0_0.eot?#iefix) format('embedded-opentype'); /* IE6-IE8 */
+			src: url(./fonts/39EC6C_0_0.eot); /* IE9 Compat Modes */
+			src: url(./fonts/39EC6C_0_0.eot?raw=true);/* This doesn't work - IE9 Compat Modes */
+			src: url(./fonts/39EC6C_0_0.woff2) format('woff2'),/* Super Modern Browsers */
+				 url(./fonts/39EC6C_0_0.eot?#iefix) format('embedded-opentype'), /* This doesn't work - IE6-IE8 */
+				 url(./fonts/39EC6C_0_0.eot?#iefix) format('embedded-opentype'); /* IE6-IE8 */
 		  }		  
 		  
 		  body{
